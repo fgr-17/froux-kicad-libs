@@ -1,0 +1,8 @@
+(module "microSD 3020-901-0001 ACH ELECTRONICS" (layer F.Cu) (tedit 5AC95246)
+  (fp_text reference REF** (at 33.02 -19.05) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "microSD 3020-901-0001 ACH ELECTRONICS" (at 20.32 -20.32) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
