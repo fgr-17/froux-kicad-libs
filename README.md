@@ -14,3 +14,7 @@
 29.06.2018:
     
     - creado simbolo del ads1292 pero esta vacio
+
+30.06.2018:
+
+    - simbolo de ads terminado
