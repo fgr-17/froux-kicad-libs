@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPD4S014
+D TPD4S014 USB Charger Port Protection
+K USB Charger ESD Protection
+F /home/froux/Dropbox/VOP24/docs y hojas de datos/otros/cosas modulo usb/tpd4s014.pdf
+$ENDCMP
+#
+#End Doc Library
