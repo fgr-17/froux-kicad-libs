@@ -18,3 +18,7 @@
 30.06.2018:
 
     - simbolo de ads terminado
+
+20.03.2019 :
+
+   - se agrego footprint para el LT1512
