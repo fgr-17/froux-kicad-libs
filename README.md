@@ -22,3 +22,7 @@
 20.03.2019 :
 
    - se agrego footprint para el LT1512
+
+26.03.2019
+
+   - se agrego footprint para boton smd. Se invirtieron los pines del modelo original
